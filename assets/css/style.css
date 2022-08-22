@@ -10,7 +10,7 @@ body {
     width: 100%;
     height: 300vh;
    /* background-image: url('/Proggetti/ivanboscolo.githbub.io/assets/img/sfondo_chiaro.webp');*/
-    background-image: linear-gradient(rgba(0, 0, 0, 1),rgb(0 ,0 ,0 ,0.5));
+    background-image: linear-gradient(rgba(0, 0, 0, 1),rgb(0 ,0 ,0 ,0.5)), url(https://ivanboscologioachina.github.io/ivanboscolo.githbub.io/assets/img/sfondo_chiaro.webp);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
