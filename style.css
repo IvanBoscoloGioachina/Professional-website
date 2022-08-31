@@ -64,12 +64,6 @@ body {
 
 }
 
-.CV {
-    width: 100%;
-    position: absolute;
-    top: 10%;
-    transform: translateY(-50%);
-}
 
 button {
     width: 200px;
