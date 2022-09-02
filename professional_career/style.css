@@ -8,8 +8,8 @@
 
 .title {
     padding: 100px;
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 100vh;
     background-image: linear-gradient(rgba(0, 0, 0, 1),rgb(0 ,0 ,0 ,0.5)), url(https://ivanboscologioachina.github.io/ivanboscolo.githbub.io/assets/img/sfondo_chiaro.webp);
     background-size:cover;
     background-repeat: no-repeat;
@@ -27,7 +27,7 @@ h1 {
 }
 h2 {
     padding-top: 50px;
-    font-size: 25px;
+    font-size: 35px;
     color: blanchedalmond;
     letter-spacing: 5px;
     word-spacing: 8px;
