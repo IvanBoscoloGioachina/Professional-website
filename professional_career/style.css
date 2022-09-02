@@ -17,7 +17,7 @@
 }
 
 h1 {
-
+    padding-top: 20px;
     font-size: 50px;
     color: blanchedalmond;
     letter-spacing: 5px;
@@ -27,7 +27,7 @@ h1 {
 }
 h2 {
     padding-top: 50px;
-    font-size: 20px;
+    font-size: 25px;
     color: blanchedalmond;
     letter-spacing: 5px;
     word-spacing: 8px;
@@ -43,11 +43,16 @@ h2 {
     
 }
 
- p {
-    padding-top: 20px;
+p {
+    
+    padding: 50px;
+    border-radius: 20px;
+    background-color: blanchedalmond;
     text-align: justify;
     line-height: 30px;
-    margin: 100px;
+    margin: 60px;
     font-size: 20px;
-    color: blanchedalmond;
+    color: black;
+    font-size:x-large;
  }
+
